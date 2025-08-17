@@ -1,0 +1,62 @@
+  
+[TITLE OF POLICY]
+
+
+[If policy document is lengthy (e.g., over 10 pages long), include here hyperlinks to each section of the policy]
+
+
+Policy Statement
+
+[Provide a brief statement of the University’s intent regarding the policy’s subject matter and an indication of how broadly the policy applies.]
+
+
+Purpose
+
+[Indicate the rationale for the policy, including any legal or regulatory requirements that the policy aims to address.]
+
+
+Audience
+
+[Identify the members of the Northwestern community who will be affected by the policy, such as “All members of the Northwestern community” or “All deans, directors, and department heads.”]
+
+
+Definitions
+
+[Define any terms used in the policy that have a specialized meaning.]
+
+
+Policy Implementation
+
+[Explain the means by which the policy will be carried out, using subheadings where appropriate. Where a particular party or office is responsible for a task, that party or office should be clearly designated.
+
+Detailed steps for policy implementation may be developed in a separate procedures document. Procedures need not follow the same steps for approval and adoption that are applicable to policies, but they should be developed in consultation with the Associate Director of Policy Management and the Policy Review Committee.]
+
+
+Consequences of Violating this Policy
+
+[List any applicable sanctions for non-compliance, such as disciplinary action of students or employees and/or civil or criminal penalties. If there are no applicable sanctions, delete this section.]
+
+
+Related Information
+
+[List (and provide any available hyperlinks to) (i) related policies; (ii) any applicable legal or regulatory information; or (iii) any forms or templates, FAQ documents, or other information related to the policy.]
+
+
+Contacts
+
+The following [individual(s)/office(s)] can address questions regarding this Policy:
+
+[insert name/office, phone: (847) xxx-xxxx, email:xxxxxxxx@northwestern.edu]
+
+
+History
+
+[Indicate whether the policy is a new policy, or whether it supersedes an existing policy. Include the effective date of the original policy as well as the date(s) of any subsequent amendments (if known).]
+
+
+Policy URL: 
+
+[Compliance, Audit & Advisory Services office to complete if policy is to be listed on the University Policy website. 
+
+If policy is to be listed on a school, department, or unit website, the URL to the policy (formatted in PDF) should be provided here.]
+

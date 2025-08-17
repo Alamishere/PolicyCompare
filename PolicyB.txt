@@ -1,0 +1,63 @@
+Policy Template
+The following template is intended to serve as a guide for the development of Princeton University policies -- broadly applicable statements of basic principles that direct the activities of the campus community toward institutional goals; promote compliance with external laws and regulations; support University operations; and/or reduce institutional risk. 
+Policy writers and developers with questions, comments or suggestions about the template and/or the policy development process at the University are encouraged to contact policy@princeton.edu. 
+
+Policy Title: 
+A concise, descriptive heading that identifies the policy.
+
+Policy Section:
+Certain units that are responsible for numerous policies, such as the offices of Finance and Treasury and Human Resources, may wish to organize related policies into topic-based sections.
+
+Responsible Executive(s):
+The University officer or other authorized institution official who serves as the sponsor and/or steward of the policy.
+
+Responsible Office(s):
+The office, unit, or department that owns and administers the policy.
+
+Contact(s):
+The individual, position, and/or office who should be contacted by University community members for any questions about the policy. 
+
+Effective Date:
+Date of issuance and/or last major revision. 
+
+Last Update
+Date of major or minor revisions as deemed by Responsible Executive(s) (details included in the update log).
+
+I.	Policy Statement
+
+This section includes a brief, concise summary (approximately three to five sentences) that states the overall reason for and scope of the policy. 
+
+Examples:
+
+Office of Finance and Treasury Business Expense Policy Statement:
+This policy defines an allowable business expense as a necessary, reasonable, appropriate, and allowable noncompensation expense incurred for a valid business purpose to fulfill the mission of the University. While such allowable expenses may be eligible for payment by University funds, other funding sources may have more restrictions. The policy provides criteria for determining an allowable or unallowable expense, and provides lists of common expenses.
+This policy also lists substantiation and original receipt elements required to pay allowable business expenses. In general, this policy ensures appropriate use of University funds in support of its mission, follows Generally Accepted Accounting Principles (GAAP), and complies with federal, state, local rules, and regulations.
+Office of Human Resources Controlled Substances and Alcohol Use and Testing Policy Statement:
+Princeton University does not test employees for alcohol use or substance abuse except as required by federal, state or local law. In compliance with the U.S. Department of Transportation (DOT), Federal Highway Administration (FHWA), "Controlled Substances and Alcohol Use and Testing Regulations," the University conducts tests for alcohol and controlled substances on covered employees in safety-sensitive transportation-related positions as prescribed by law.
+
+II.	Who Is Affected By This Policy
+
+This section describes who this policy applies to and under what conditions.
+
+III.	Definitions
+The definition and use of key terms is critical to the effective communication of and compliance with policy. This section defines key terms used within the policy to ensure that all readers of the policy interpret its meaning using the same criteria.
+IV.	Policy
+The section contains the full text of the policy, including detailed information about the purpose of the policy and details about the policy components.  When appropriate, it also includes instructions for reporting and resolving noncompliance with the policy.
+V.	Procedures
+If applicable, this section provides the University community with a sequential, step-by-step guide of all actions required to comply with the policy. The procedures should be clear and concise. 
+VI.	Related Documents and Forms
+This section contains the necessary documents and forms related to the policy.
+VII.	Roles and Responsibilities
+This section outlines the roles and responsibilities of the University offices or individuals referenced in the policy and procedures. It is most often developed in tabular format. 
+Example: Cost Sharing Policy Roles and Responsibilities (Offices of Finance & Treasury and Research & Project Administration)
+PI & Dept Administrator Dean/Chair/Director	Develops a cost sharing plan and identifies the source of funding (gift, operating budget, endowment, etc) for all cost sharing arrangements
+Dean / Chair / Director	Approves all cost sharing arrangements in advance of the proposal submission
+Dean for Research	Approves voluntary committed cost sharing arrangements in advance of the proposal submission
+ORPA	Enters cost sharing details of the award into COEUS
+ORPA	Establishes a Fund 30 Cost Sharing Project/Grant
+
+VIII.	Related Policies
+This section includes hyperlinks to any related University policies. 
+IX.	Update Log
+This section details any updates to the policy to track revisions and keep the University community abreast of changes that may affect them.  The dates included in the update log should correspond to the dates entered in the Last Update field of the policy.
+
